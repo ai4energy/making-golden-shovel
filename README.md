@@ -7,6 +7,7 @@
   - [x] 02虚拟机安装Linux
   - [x] 03wsl安装linux
   - [x] 04linux的包管理
+  - [x] 05linux的服务
 - [05misc工具](./05misc工具/)
   - [x] 00模型的计算机描述和处理的前置学习部分
     - [x] 01WindowsTerminal
