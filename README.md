@@ -29,5 +29,7 @@
     - [x] 06Julia的环境
     - [x] 07Julia的类型系统
     - [x] 08Julia的多重分发
-
-
+  - [x] 05其它
+    - [x] 01使用阿里云服务器
+    - [x] 02使用mobaxterm连接服务器
+    - [x] 03filezilla的使用
